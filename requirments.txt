@@ -1,0 +1,11 @@
+# Colab already has most of these; the notebooks install pydicom themselves.
+numpy
+pandas
+opencv-python
+scikit-learn
+scikit-image
+matplotlib
+pydicom
+torch
+torchvision
+# only if your DICOMs are compressed (JPEG): pylibjpeg pylibjpeg-libjpeg
